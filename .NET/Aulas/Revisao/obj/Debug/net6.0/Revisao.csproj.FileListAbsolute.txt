@@ -1,0 +1,15 @@
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\bin\Debug\net6.0\Revisao.exe
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\bin\Debug\net6.0\Revisao.deps.json
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\bin\Debug\net6.0\Revisao.dll
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\bin\Debug\net6.0\Revisao.pdb
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\obj\Debug\net6.0\Revisao.dll
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\obj\Debug\net6.0\refint\Revisao.dll
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\obj\Debug\net6.0\Revisao.pdb
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Aulas\Revisao\obj\Debug\net6.0\ref\Revisao.dll
