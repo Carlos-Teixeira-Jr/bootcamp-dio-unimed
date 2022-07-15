@@ -1,0 +1,15 @@
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\bin\Debug\net6.0\Projeto - RPG em POO.exe
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\bin\Debug\net6.0\Projeto - RPG em POO.deps.json
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\bin\Debug\net6.0\Projeto - RPG em POO.runtimeconfig.json
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\bin\Debug\net6.0\Projeto - RPG em POO.dll
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\bin\Debug\net6.0\Projeto - RPG em POO.pdb
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\obj\Debug\net6.0\Projeto - RPG em POO.csproj.AssemblyReference.cache
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\obj\Debug\net6.0\Projeto - RPG em POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\obj\Debug\net6.0\Projeto - RPG em POO.AssemblyInfoInputs.cache
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\obj\Debug\net6.0\Projeto - RPG em POO.AssemblyInfo.cs
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\obj\Debug\net6.0\Projeto - RPG em POO.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\obj\Debug\net6.0\Projeto - RPG em POO.dll
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\obj\Debug\net6.0\refint\Projeto - RPG em POO.dll
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\obj\Debug\net6.0\Projeto - RPG em POO.pdb
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\obj\Debug\net6.0\Projeto - RPG em POO.genruntimeconfig.cache
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto - RPG em POO\obj\Debug\net6.0\ref\Projeto - RPG em POO.dll
