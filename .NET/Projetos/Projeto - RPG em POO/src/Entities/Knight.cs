@@ -7,7 +7,7 @@ namespace Projeto___RPG_em_POO.src.Entities
 {
     public class Knight : Hero
     {
-        public Knight(string Name, int Level, string HeroType)
+        public Knight(string Name, int Level, string HeroType) : base(Name, Level, HeroType)
         {
             this.Name = Name;
             this.Level = Level;
