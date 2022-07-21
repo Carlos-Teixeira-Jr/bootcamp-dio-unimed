@@ -1,0 +1,5 @@
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto final DIO\projeto-final\obj\Debug\net6.0\projeto-final.csproj.AssemblyReference.cache
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto final DIO\projeto-final\obj\Debug\net6.0\projeto-final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto final DIO\projeto-final\obj\Debug\net6.0\projeto-final.AssemblyInfoInputs.cache
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto final DIO\projeto-final\obj\Debug\net6.0\projeto-final.AssemblyInfo.cs
+D:\Usuario\Documents\Dev\bootcamp Geracao Tech - Unimed - DIO\estudos-bootcamp-geracao-tech-dio\.NET\Projetos\Projeto final DIO\projeto-final\obj\Debug\net6.0\projeto-final.csproj.CoreCompileInputs.cache
